@@ -84,7 +84,3 @@ Several enhancements can be made to improve the accuracy and relevance of the re
 
 - **Exploring Other Similarity Metrics**: Experimenting with other similarity metrics, such as Pearson correlation, could provide insights into different aspects of movie similarity.
 
-## Project Structure
-
-Here’s the final structure of the GitHub repository for this project:
-
